@@ -42,7 +42,9 @@
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" height="50" />  
 </div></td></tr></table>  
 
-<br/>  
+<br/> 
+
+<a href="https://github.com/UpekshaHerath/github-readme-stats"><img alt="UpekshaHerath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkanimsara&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></a> 
 
 
 ## Connect with me  
